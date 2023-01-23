@@ -16,7 +16,7 @@ Figma <br>
 # 👩🏻‍💻 Projeto 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-Visite o projeto online [DESSE LINK](https://).
+Visite o projeto online [DESSE LINK](https://iamsandralima.github.io/nlw-setup/).
 
 
 # 💻 Web Version
